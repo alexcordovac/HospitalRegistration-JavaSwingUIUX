@@ -7,7 +7,7 @@ and it assigns a doctor, office number and shift.
 In addition, the server saves it in the database and returns it to the client to be displayed.
 
 Note: it's created in one project using netbeans because it was part of a homework,  
-I would rather had created two projects one for client and one for server
+I would rather have created two projects one for client and one for server
 
 ## Screenshots
 I added screenshots inside the "images" folder.
